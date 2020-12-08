@@ -1,8 +1,8 @@
 # Site settings
 title: 鲍于
 description: 'BaoYu Page'
-url: 'http://yusijia.ltd'
-baseurl: ''
+url: 'http://baoxizhao.com'
+baseurl: 'ysj'
 profilepic: '/images/yusijia.jpg'
 bkimage: '/images/bg1.jpg'
 google_analytics: UA-XXXXXX-X
