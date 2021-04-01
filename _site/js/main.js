@@ -17,7 +17,7 @@ $(document).ready(function () {
       $('.content-wrapper').addClass('animated slideInRight')
     } else {
       $('.panel-cover').css('max-width', currentWidth)
-      $('.panel-cover').animate({'max-width': '900px', 'width': '75%'}, 400, swing = 'swing', function () {})
+      $('.panel-cover').animate({'max-width': '1000px', 'width': '50%'}, 400, swing = 'swing', function () {})
     }
     $('.content-wrapper').addClass('showing');
   })
